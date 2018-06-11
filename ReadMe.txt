@@ -7,3 +7,4 @@ Git tracks changes.
 Git tracks changes test it again.
 The person who prefers SVN is stupid.
 Creating a new branch is quick and interesting.
+Creating a new branch is quick and interesting.
